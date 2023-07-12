@@ -1,8 +1,7 @@
 # xRC Autoscorer
-Auto alignment and scoring script for xRC simulator
-Purely for assisted driving rather than complete automation
+Auto alignment and scoring script for xRC simulator. Used for assisted driving rather than complete automation
 
-Does not work in Multiplayer
+### Does not work in Multiplayer
 
 Supports Xbox 360 Controller (Controller Selection soon)
 
