@@ -1,2 +1,2 @@
-# xrc-autoscore
-Auto Scoring script for xRC simulator
+# xRC Autoscorer
+Auto alignment and scoring script for xRC simulator
