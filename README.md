@@ -10,7 +10,7 @@ Supports Xbox 360 Controller (Controller Selection soon)
 3. Open a singleplayer game and enable automation
 4. Run `auto_score.py`
 5. Use the **D-Pad** or **Click** to select your scoring node
-6. Press **Left Bumper** to aim at node
+6. Press **Left Bumper** to recenter the robot
 7. Press **Right Bumper** to aim at node and automatically score
 8. Close window to end script
 
