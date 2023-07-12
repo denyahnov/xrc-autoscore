@@ -1,6 +1,8 @@
 # xRC Autoscorer
 Auto alignment and scoring script for xRC simulator. Used for assisted driving rather than complete automation
 
+FRC Charged Up - 254 Breakdown
+
 ### Does not work in Multiplayer
 
 Supports Xbox 360 Controller (Controller Selection soon)
