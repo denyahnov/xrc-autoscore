@@ -1,5 +1,6 @@
 # xRC Autoscorer
 Auto alignment and scoring script for xRC simulator
+Purely for assisted driving rather than complete automation
 
 Does not work in Multiplayer
 
